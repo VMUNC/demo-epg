@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/VMUNC/demo-epg/master/epgsinrex.xml
